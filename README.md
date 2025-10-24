@@ -155,6 +155,6 @@ TIMEOUT = 15
 
 ## 🧑‍💻 Author
 
-**Winzarts KMB**  
+**Winzarts**  
 🔗 *Project belajar scraping & API sederhana berbasis Flask*  
 🖥️ Dibuat dengan semangat belajar dan secangkir kopi ☕  
