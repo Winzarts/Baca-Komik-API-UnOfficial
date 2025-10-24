@@ -6,7 +6,7 @@ load_dotenv()
 BASE_URL = os.getenv("BASE_URL", "https://example.com/")
 USER_AGENT = os.getenv("USER_AGENT", "Mozilla/5.0") 
 TIMEOUT = int(os.getenv("timeout", 10))
-API_BASE = os.getenv("API_BASE", "http://127.0.0.1:3080")
+API_BASE = os.getenv("API_BASE", "http://example.com")
 
 HEADERS = {
     "User-Agent": USER_AGENT,
