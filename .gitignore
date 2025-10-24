@@ -1,0 +1,29 @@
+# ==== Python ====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ==== Environment ====
+.env
+
+# ==== Virtual environment ====
+venv/
+env/
+
+# ==== IDE / Editor ====
+.vscode/
+.idea/
+
+# ==== OS files ====
+.DS_Store
+Thumbs.db
+
+# ==== Logs ====
+*.log
+
+# ==== Selenium cache (optional) ====
+chromedriver.log
+
+# ==== Misc ====
+*.sqlite3
